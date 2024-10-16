@@ -216,6 +216,17 @@ main img {
   height: auto;
 }
 
+.image-container {
+    background-color: blue;
+    color: white;
+}
+
+main .section.new-section-container {
+    background-color: lightgray;
+    margin: 0;
+    padding: 30px;
+}
+
 .icon {
   display: inline-block;
   height: 24px;
